@@ -1,0 +1,17 @@
+{
+  "name": "fnGh24",
+  "blockId": "vpVENgDwL89xuUw6q1DQa",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Digambaran/fnGh24",
+    "ssh": "git@github.com:Digambaran/fnGh24.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false,
+  "supportedAppblockVersions": [
+    "2.0.0"
+  ]
+}
